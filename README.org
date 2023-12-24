@@ -22,7 +22,7 @@ It can parse:
 
 * API
 
-+ ~(csv-parser/parse data &opt header)~
++ ~(csv/parse data &opt header)~
   + ~data~ :: a string
   + ~header~ :: use the first line as an header
 
